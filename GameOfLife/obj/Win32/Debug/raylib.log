@@ -1,0 +1,277 @@
+﻿  raudio.c
+O:\Projects\Coding\Game of Life\raylib\src\external\stb_vorbis.h(4989,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\jar_xm.h(143,18): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\external\jar_xm.h(144,50): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\jar_xm.h(162,18): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\external\jar_xm.h(163,50): warning C4244: '=': conversion from 'float' to 'char', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\jar_xm.h(1463,64): warning C4244: '=': conversion from 'uint16_t' to 'uint8_t', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\jar_xm.h(1476,1): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\jar_xm.h(1478,1): warning C4244: 'initializing': conversion from 'float' to 'int8_t', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\jar_xm.h(1749,47): warning C4244: '=': conversion from 'uint32_t' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\jar_xm.h(1784,70): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\jar_xm.h(2237,65): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\jar_xm.h(2372,90): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\jar_xm.h(2569,48): warning C4244: '+=': conversion from 'float' to 'uint64_t', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\jar_xm.h(2629,43): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\external\jar_xm.h(2611,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\jar_mod.h(1529,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\raudio.c(781,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\raudio.c(798,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\raudio.c(1858,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\raudio.c(1977,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  core.c
+O:\Projects\Coding\Game of Life\raylib\src\rlgl.h(1646,5): warning C4090: 'function': different 'const' qualifiers
+O:\Projects\Coding\Game of Life\raylib\src\external\dirent.h(114,13): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\core.c(191,14): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  models.c
+O:\Projects\Coding\Game of Life\raylib\src\external\tinyobj_loader_c.h(749,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\cgltf.h(751,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\cgltf.h(986,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\cgltf.h(987,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\cgltf.h(991,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\cgltf.h(1397,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\cgltf.h(1402,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\cgltf.h(1949,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\cgltf.h(1959,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\cgltf.h(2038,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(273,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(305,54): warning C4305: 'function': truncation from 'double' to 'float'
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(335,43): warning C4305: 'function': truncation from 'double' to 'float'
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(346,43): warning C4305: 'function': truncation from 'double' to 'float'
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(470,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(534,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(535,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(543,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(544,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(568,28): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(559,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(560,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(576,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(586,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(587,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(609,78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(611,78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(612,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(618,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(619,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(620,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(601,1): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(602,1): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(603,1): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(604,1): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(605,1): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(606,1): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(670,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(671,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(695,45): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(669,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(805,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(853,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(953,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(1284,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(1286,65): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(1288,65): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(1290,65): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(1150,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(1151,17): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(1155,21): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(1165,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(1181,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(1182,11): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(1184,21): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(1206,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(1447,38): warning C4305: 'function': truncation from 'double' to 'float'
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(1464,27): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(1465,23): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(1466,27): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(1468,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(1748,43): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(1748,59): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(1748,75): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\external\par_shapes.h(1717,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\models.c(144,35): warning C4305: 'function': truncation from 'double' to 'float'
+O:\Projects\Coding\Game of Life\raylib\src\models.c(788,25): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\models.c(864,23): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(999,23): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(1007,27): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(1013,27): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(1017,35): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(1019,31): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(1106,35): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(957,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\models.c(1009,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\models.c(2459,73): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\models.c(2460,73): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\models.c(2461,73): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\models.c(2462,73): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\models.c(2898,31): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(2935,27): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(2848,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\models.c(2849,9): warning C4996: 'chdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _chdir. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\models.c(2971,1): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\models.c(2975,1): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\models.c(2982,1): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\models.c(2993,9): warning C4996: 'chdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _chdir. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\models.c(3176,49): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(3191,23): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(3201,35): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(3204,61): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(3218,35): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(3221,61): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(3235,35): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(3238,61): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(3251,35): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(3254,61): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(3267,35): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(3270,61): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(3289,23): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(3109,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\models.c(3459,27): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(3552,27): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(3633,27): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(3635,31): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(3637,35): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(3645,25): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(3652,25): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(3661,29): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(3679,25): warning C4018: '<': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\raylib\src\models.c(3519,22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  rglfw.c
+O:\Projects\Coding\Game of Life\raylib\src\external\glfw\src\context.c(407,10): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\glfw\src\init.c(120,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\glfw\src\init.c(173,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\glfw\src\init.c(175,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\glfw\src\init.c(177,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\glfw\src\init.c(179,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\glfw\src\init.c(181,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\glfw\src\init.c(183,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\glfw\src\init.c(185,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\glfw\src\init.c(187,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\glfw\src\init.c(189,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\glfw\src\init.c(191,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\glfw\src\init.c(193,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\glfw\src\init.c(195,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\glfw\src\init.c(215,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\glfw\src\input.c(441,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\glfw\src\window.c(428,13): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\glfw\src\window.c(432,13): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\glfw\src\window.c(436,13): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\glfw\src\win32_joystick.c(455,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\glfw\src\win32_joystick.c(463,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\glfw\src\win32_joystick.c(559,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\glfw\src\win32_joystick.c(750,9): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\glfw\src\win32_joystick.c(751,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\glfw\src\win32_monitor.c(104,5): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\external\glfw\src\win32_monitor.c(113,9): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  shapes.c
+O:\Projects\Coding\Game of Life\raylib\src\shapes.c(222,62): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\shapes.c(228,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\shapes.c(316,62): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\shapes.c(322,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\shapes.c(368,31): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\shapes.c(368,40): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\shapes.c(410,31): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\shapes.c(410,40): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\shapes.c(464,62): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\shapes.c(477,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\shapes.c(560,62): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\shapes.c(572,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\shapes.c(773,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\shapes.c(997,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  text.c
+O:\Projects\Coding\Game of Life\raylib\src\text.c(948,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\text.c(1142,5): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\text.c(1217,16): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\text.c(1218,16): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\text.c(1223,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\text.c(1263,13): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\text.c(1268,17): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\text.c(1321,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\text.c(1431,9): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\text.c(1661,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\text.c(1676,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\text.c(1684,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\text.c(1690,5): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\text.c(1709,5): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\text.c(1710,5): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\text.c(1738,9): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  textures.c
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(707,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(854,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(873,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1296,63): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1305,106): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1308,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1308,59): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1309,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1309,61): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1310,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1311,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1311,61): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1312,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1313,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1313,61): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1317,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1317,61): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1318,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1319,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1320,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1320,61): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1321,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1321,59): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1322,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1322,61): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1291,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1332,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1414,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1543,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1544,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1550,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1551,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1497,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1502,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1508,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1513,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1958,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1964,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1965,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1992,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1998,39): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1998,51): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1998,59): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(1998,67): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(2015,34): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(2015,41): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(2015,52): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(2016,34): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(2016,49): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(2016,78): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(2017,54): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(2017,69): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(2017,98): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(2018,34): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(2018,62): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(2018,73): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(2247,1): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(2248,1): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(2249,1): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(2250,1): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(3129,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(3402,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(3487,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(3501,9): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\textures.c(3730,22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  utils.c
+O:\Projects\Coding\Game of Life\raylib\src\utils.c(146,25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\utils.c(147,25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\utils.c(148,24): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\utils.c(149,27): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\utils.c(150,25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\utils.c(151,25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\utils.c(155,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\utils.c(156,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\utils.c(175,22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\utils.c(212,22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\utils.c(237,26): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+O:\Projects\Coding\Game of Life\raylib\src\utils.c(278,22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...

@@ -1,0 +1,2 @@
+O:\Projects\Coding\Game of Life\GameOfLife\bin\x64\Debug\raylib.pdb
+O:\Projects\Coding\Game of Life\GameOfLife\obj\x64\Debug\raylib.pdb

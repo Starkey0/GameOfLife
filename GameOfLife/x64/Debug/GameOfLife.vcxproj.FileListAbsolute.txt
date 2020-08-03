@@ -1,0 +1,2 @@
+O:\Projects\Coding\Game of Life\GameOfLife\x64\Debug\GameOfLife.exe
+O:\Projects\Coding\Game of Life\GameOfLife\x64\Debug\GameOfLife.pdb
