@@ -1,11 +1,6 @@
 ﻿  GameOfLife.c
-O:\Projects\Coding\Game of Life\GameOfLife\GameOfLife.c(35,53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-O:\Projects\Coding\Game of Life\GameOfLife\GameOfLife.c(36,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-O:\Projects\Coding\Game of Life\GameOfLife\GameOfLife.c(38,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-O:\Projects\Coding\Game of Life\GameOfLife\GameOfLife.c(40,38): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-O:\Projects\Coding\Game of Life\GameOfLife\GameOfLife.c(103,33): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
-O:\Projects\Coding\Game of Life\GameOfLife\GameOfLife.c(103,70): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
-O:\Projects\Coding\Game of Life\GameOfLife\GameOfLife.c(104,52): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
-O:\Projects\Coding\Game of Life\GameOfLife\GameOfLife.c(104,87): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
-O:\Projects\Coding\Game of Life\GameOfLife\GameOfLife.c(47,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Game of Life\GameOfLife\GameOfLife.c(40,46): warning C4018: '<=': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\GameOfLife\GameOfLife.c(41,50): warning C4018: '<=': signed/unsigned mismatch
+O:\Projects\Coding\Game of Life\GameOfLife\GameOfLife.c(62,30): warning C4013: 'rand' undefined; assuming extern returning int
+O:\Projects\Coding\Game of Life\GameOfLife\GameOfLife.c(122,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
   GameOfLife.vcxproj -> O:\Projects\Coding\Game of Life\GameOfLife\x64\Debug\GameOfLife.exe
